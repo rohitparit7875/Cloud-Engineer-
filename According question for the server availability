@@ -1,0 +1,13 @@
+1️⃣ Check Server Availability (Ping)
+Python
+Copy code
+import os
+
+def check_server(ip):
+    response = os.system(f"ping -c 1 {ip} > /dev/null 2>&1")
+    if response == 0:
+        print("Server is UP")
+    else:
+        print("Server is DOWN")
+
+check_server("8.8.8.8")
