@@ -1,0 +1,16 @@
+🔹 PART 3: Network Communication & Translation
+9. What is a Gateway?
+Answer:
+A gateway connects one network to another network and allows access to external networks like the internet.
+10. What is DNS?
+Answer:
+DNS converts domain names into IP addresses so systems can locate servers easily.
+11. What is ARP?
+Answer:
+ARP maps an IP address to a MAC address inside a local network.
+12. What is NAT?
+Answer:
+NAT converts private IP addresses into public IP addresses to enable internet access and improve security.
+✔ Study Tip:
+Understand real data flow:
+PC → Gateway → NAT → Internet
