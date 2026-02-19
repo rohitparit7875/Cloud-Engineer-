@@ -1,0 +1,13 @@
+☁️ Networking Basics
+What is a Subnet?
+👉 A range of IP addresses inside VPC.
+Public vs Private Subnet?
+Public → Has internet access
+Private → No direct internet
+What is Security Group?
+👉 Virtual firewall at instance level.
+Security Group vs NACL?
+SG → Stateful
+NACL → Stateless
+What is Internet Gateway?
+👉 Allows VPC to connect to internet.
