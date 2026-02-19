@@ -1,0 +1,17 @@
+PART 1: Networking Basics
+1. What is Networking?
+Answer:
+Networking is the process of connecting multiple devices to share data and resources using communication protocols like TCP/IP.
+2. What is an IP Address?
+Answer:
+An IP address is a unique logical address assigned to a device to identify it on a network.
+3. Difference between IPv4 and IPv6
+Answer:
+IPv4 uses 32-bit addresses (example: 192.168.1.1)
+IPv6 uses 128-bit addresses (example: 2001:db8::1)
+IPv6 provides a much larger address space than IPv4
+4. What is a MAC Address?
+Answer:
+A MAC address is a physical address assigned to a network interface card and is used for communication within a local network.
+✔ Study Tip:
+Focus on definitions + examples.
