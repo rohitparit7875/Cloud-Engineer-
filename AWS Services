@@ -1,0 +1,14 @@
+☁️ AWS Core Services (Very Important)
+What is EC2?
+👉 Virtual server in AWS to run applications.
+What is S3?
+👉 Object storage service used for backups, static websites, logs.
+Difference between EC2 and S3?
+👉 EC2 = compute, S3 = storage.
+What is VPC?
+👉 Virtual private network in AWS to isolate resources.
+What is IAM?
+👉 Identity & Access Management to control user permissions.
+IAM User vs Role?
+User → Human access
+Role → AWS services access
