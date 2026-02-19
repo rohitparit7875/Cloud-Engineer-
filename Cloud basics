@@ -1,0 +1,10 @@
+What is Cloud Computing?
+👉 Delivering computing resources (servers, storage, networking, software) over the internet on pay-as-you-go basis.
+What are the types of cloud?
+👉 Public, Private, Hybrid, Multi-cloud.
+Explain IaaS, PaaS, SaaS.
+IaaS: VM, storage, network (AWS EC2)
+PaaS: Platform to deploy apps (Elastic Beanstalk)
+SaaS: Ready-to-use software (Gmail)
+Advantages of cloud?
+👉 Scalability, cost saving, high availability, global access.
