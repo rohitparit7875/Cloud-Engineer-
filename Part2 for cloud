@@ -1,0 +1,18 @@
+🔹 PART 2: IP Management & Addressing
+5. What is Subnetting?
+Answer:
+Subnetting divides a large network into smaller sub-networks to improve performance, security, and management.
+6. What is CIDR?
+Answer:
+CIDR (Classless Inter-Domain Routing) defines how many bits belong to the network portion of an IP address.
+Example: 192.168.1.0/24
+7. Difference between Public IP and Private IP
+Answer:
+Public IP is used on the internet and is globally unique
+Private IP is used inside internal networks
+Private IP ranges include 10.x.x.x, 172.16–31.x.x, 192.168.x.x
+8. What is DHCP?
+Answer:
+DHCP automatically assigns IP address, subnet mask, gateway, and DNS to devices in a network.
+✔ Study Tip:
+Practice CIDR & subnet calculations.
