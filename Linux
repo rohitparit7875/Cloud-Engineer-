@@ -1,0 +1,9 @@
+☁️ Linux (Basic but Mandatory)
+Command to check running processes?
+👉 ps -ef , top
+Command to check disk usage?
+👉 df -h
+Change file permission?
+👉 chmod 755 filename
+Check service status?
+👉 systemctl status servicename
