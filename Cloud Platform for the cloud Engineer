@@ -1,0 +1,17 @@
+✅ PART 3: Cloud Platform Commands (AWS / Azure / GCP)
+🔹 AWS CLI (Most Common)
+aws configure
+aws ec2 describe-instances
+aws s3 ls
+aws s3 cp file.txt s3://bucket-name/
+aws iam list-users
+aws logs describe-log-groups
+🔹 Azure CLI
+az login
+az vm list
+az storage account list
+az group list
+🔹 GCP CLI
+gcloud init
+gcloud compute instances list
+gcloud storage buckets list
