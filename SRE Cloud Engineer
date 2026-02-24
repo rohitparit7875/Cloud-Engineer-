@@ -1,0 +1,22 @@
+✅ PART 4: DevOps / Automation / Containers (Advanced Skills)
+🔹 Docker
+docker ps
+docker images
+docker pull nginx
+docker run -d -p 80:80 nginx
+docker exec -it container_id bash
+docker logs
+🔹 Kubernetes
+kubectl get pods
+kubectl get nodes
+kubectl describe pod pod_name
+kubectl apply -f deployment.yaml
+kubectl delete pod pod_name
+🔹 Git
+git clone
+git status
+git add .
+git commit -m "message"
+git push
+git pull
+🔹 CI/CD & Automation
