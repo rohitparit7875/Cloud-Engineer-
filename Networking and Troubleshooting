@@ -1,0 +1,22 @@
+✅ PART 2: Networking & Troubleshooting Commands
+
+Very important for Cloud + DevOps + Network roles.
+
+🔹 Network Checking
+ping
+traceroute
+tracert        # Windows
+netstat -tulnp
+ss -tulnp
+ifconfig
+ip addr
+🔹 Port & Service Testing
+telnet
+nc (netcat)
+curl
+wget
+nmap
+🔹 DNS & IP
+nslookup
+dig
+hostname
