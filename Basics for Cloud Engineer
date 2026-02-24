@@ -1,0 +1,30 @@
+✅ PART 1: Linux / OS Commands (Foundation – MUST KNOW)
+
+These are non-negotiable for any Cloud Engineer.
+
+🔹 File & Directory
+ls        # list files
+pwd       # present working directory
+cd        # change directory
+mkdir     # create directory
+rm -rf    # delete files/directories
+cp        # copy files
+mv        # move/rename files
+🔹 File Viewing & Editing
+cat
+less
+more
+head
+tail -f
+vi / nano
+🔹 Permissions & Ownership
+chmod
+chown
+chgrp
+🔹 System Monitoring
+top
+htop
+df -h
+free -m
+uptime
+whoami
