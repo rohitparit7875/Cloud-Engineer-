@@ -1,0 +1,25 @@
+Part 2: Compute, Storage & Networking
+
+This is core cloud work.
+
+Virtual Machines (EC2 / VM)
+
+Storage:
+
+Object Storage (S3 / Blob)
+
+Block Storage
+
+Networking:
+
+VPC / VNet
+
+Subnets
+
+Route Tables
+
+Security Groups / NSG
+
+Backup & Snapshot concepts
+
+👉 Example tasks: Create VM, attach storage, configure network
