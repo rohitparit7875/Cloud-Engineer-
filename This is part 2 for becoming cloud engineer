@@ -1,0 +1,25 @@
+🔹 PART 2 (Week 4–6) – Cloud Platform Basics (AWS Recommended)
+🎯 Goal: Understand Cloud Core Services
+I recommend starting with Amazon Web Services (AWS) because:
+High demand in India
+More job openings
+Easy learning resources
+1️⃣ Compute
+EC2 (Virtual Machine)
+Instance Types
+Key Pair
+Security Groups
+2️⃣ Storage
+S3 (Object Storage)
+EBS
+EFS
+3️⃣ Networking in Cloud
+VPC
+Subnet
+Internet Gateway
+NAT Gateway
+Route Table
+👉 Practical Task:
+Launch EC2
+Install Apache
+Access website using Public IP
