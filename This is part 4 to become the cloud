@@ -1,0 +1,17 @@
+🔹 PART 4 (Week 10–12) – Real Cloud Engineer Level
+🎯 Goal: Job Ready Skills
+1️⃣ Monitoring
+CloudWatch
+Basic logs
+2️⃣ Security
+IAM Roles
+Policies
+Multi-Factor Authentication
+3️⃣ Project (Very Important 💯)
+Build this project:
+✅ Create VPC
+✅ Create Public & Private Subnet
+✅ Launch EC2
+✅ Install Web Server
+✅ Secure with Security Group
+✅ Upload code from GitHub
