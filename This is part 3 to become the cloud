@@ -1,0 +1,22 @@
+🔹 PART 3 (Week 7–9) – DevOps + Automation (Must for Cloud Engineer)
+🎯 Goal: Automate things
+1️⃣ Git
+git clone
+git push
+git pull
+Use: GitHub
+2️⃣ CI/CD
+Basic concept
+Pipeline understanding
+Tools:
+Jenkins
+GitHub Actions
+3️⃣ Infrastructure as Code
+Terraform
+Create EC2 using Terraform
+4️⃣ Containers (Important 🔥)
+Docker basics
+Create Dockerfile
+Run container
+Tool:
+Docker
