@@ -1,0 +1,15 @@
+🔹 PART 1 (Week 1–3) – Strong Foundation (Networking + Linux)
+🎯 Goal: Clear basics like a PRO Cloud Engineer
+1️⃣ Networking (Very Important)
+IP Addressing & Subnetting
+Public vs Private IP
+DNS, DHCP
+TCP/UDP
+HTTP / HTTPS
+Ports (80, 443, 22, 3389)
+OSI Model
+👉 Practice:
+Use ping
+tracert / traceroute
+netstat
+ipconfig / ifconfig
