@@ -1,0 +1,13 @@
+4️⃣ Docker (Cloud + DevOps Must)
+🔹 Run nginx container
+Bash
+Copy code
+docker run -d -p 80:80 nginx
+🔹 Check running containers
+Bash
+Copy code
+docker ps
+🔹 Build Docker Image
+Bash
+Copy code
+docker build -t myapp .
