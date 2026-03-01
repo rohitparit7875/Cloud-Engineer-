@@ -1,0 +1,17 @@
+✅ 2️⃣ AWS CLI Commands (Most Used in Cloud)
+🔹 Configure AWS
+Bash
+Copy code
+aws configure
+🔹 List EC2 instances
+Bash
+Copy code
+aws ec2 describe-instances
+🔹 Create S3 bucket
+Bash
+Copy code
+aws s3 mb s3://my-bucket-name
+🔹 Upload file to S3
+Bash
+Copy code
+aws s3 cp file.txt s3://my-bucket-name/
