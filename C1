@@ -1,0 +1,17 @@
+1️⃣ Linux (Very Important for Cloud Engineer)
+🔹 Check system usage
+Bash
+Copy code
+top
+🔹 Check disk space
+Bash
+Copy code
+df -h
+🔹 Check memory
+Bash
+Copy code
+free -m
+🔹 Restart service (Example: nginx)
+Bash
+Copy code
+sudo systemctl restart nginx
