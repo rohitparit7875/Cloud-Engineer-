@@ -1,0 +1,23 @@
+📅 Month 1 → Linux + Networking
+Learn strong Linux basics on Ubuntu.
+Topics:
+File permissions
+User management
+Package installation
+Process monitoring
+SSH access
+Important commands:
+Copy code
+
+chmod
+chown
+ps
+top
+systemctl
+apt install
+Networking basics:
+IP addressing
+DNS
+Ports and firewall
+🎯 Goal:
+Install Linux and run a web server.
