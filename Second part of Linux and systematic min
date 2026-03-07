@@ -1,0 +1,14 @@
+2️⃣ Linux & System Administration
+Most cloud servers run on Linux.
+Important things:
+Basic Linux commands
+User management
+Package installation
+Services management
+Example commands:
+Copy code
+
+ls
+cd
+chmod
+systemctl start apache2
