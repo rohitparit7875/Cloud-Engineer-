@@ -1,0 +1,12 @@
+📅 Month 2 → Cloud Fundamentals
+Start learning Amazon Web Services.
+Focus only on these services:
+EC2 (virtual machines)
+S3 (storage)
+IAM (users and permissions)
+VPC basics
+Security Groups
+🎯 Practice:
+Launch EC2 server
+Connect using SSH
+Host a website.
