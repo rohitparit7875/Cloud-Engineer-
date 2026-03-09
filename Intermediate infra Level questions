@@ -1,0 +1,21 @@
+2️⃣ Intermediate System Admin / Infrastructure Questions
+Q1. What steps will you take if a server suddenly becomes slow?
+Answer:
+Check CPU usage (top / task manager)
+Check memory usage
+Check disk usage (df -h)
+Check running processes
+Check network traffic
+Q2. What is Load Balancing?
+Answer:
+Load balancing distributes traffic across multiple servers to improve performance and availability.
+Q3. What is Active Directory?
+Answer:
+Active Directory is a Microsoft directory service used for authentication, authorization, and managing users/computers in a domain.
+Q4. What is the difference between NAT and PAT?
+Answer:
+NAT → Maps private IP to public IP
+PAT → Uses different ports to map multiple devices to one public IP
+Q5. What is a Firewall?
+Answer:
+A firewall is a security system that monitors and controls incoming and outgoing network traffic based on rules.
