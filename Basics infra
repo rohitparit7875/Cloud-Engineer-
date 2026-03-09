@@ -1,0 +1,20 @@
+1️⃣ Basic Infrastructure Questions
+(These check your SysAdmin fundamentals)
+Q1. What is the difference between a Physical Server and a Virtual Machine?
+Answer:
+A Physical Server is actual hardware, while a Virtual Machine (VM) is a software-based server created using a hypervisor like VMware or Hyper-V that runs on physical hardware.
+Q2. What is a Hypervisor?
+Answer:
+A Hypervisor is software that creates and manages virtual machines.
+Examples: VMware ESXi, Microsoft Hyper-V, KVM.
+Q3. What is DNS and why is it important?
+Answer:
+DNS (Domain Name System) converts domain names (example.com) into IP addresses so systems can communicate over the network.
+Q4. Difference between TCP and UDP?
+Answer:
+TCP → Reliable, connection-oriented (HTTP, SSH)
+UDP → Faster, connectionless (DNS, streaming)
+Q5. What is RAID?
+Answer:
+RAID is a storage technology used for redundancy and performance.
+Example: RAID 1 (mirroring), RAID 5 (parity).
