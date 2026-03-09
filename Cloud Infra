@@ -1,0 +1,30 @@
+3️⃣ Cloud Infrastructure Questions (Important for you)
+Q1. What is IaaS, PaaS, and SaaS?
+Model
+Meaning
+Example
+IaaS
+Infrastructure as a Service
+AWS EC2
+PaaS
+Platform as a Service
+Heroku
+SaaS
+Software as a Service
+Gmail
+Q2. What is Auto Scaling?
+Answer:
+Auto scaling automatically increases or decreases the number of servers based on traffic demand.
+Q3. What is a VPC?
+Answer:
+A VPC (Virtual Private Cloud) is a private network in the cloud where you can launch resources like servers and databases securely.
+Q4. Difference between Public and Private Subnet?
+Public Subnet
+Private Subnet
+Has internet access
+No direct internet access
+Used for web servers
+Used for databases
+Q5. What is Security Group in cloud?
+Answer:
+Security groups act like virtual firewalls controlling inbound and outbound traffic for cloud instances.
