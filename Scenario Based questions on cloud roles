@@ -1,0 +1,29 @@
+4️⃣ Scenario-Based Interview Questions (Most Important)
+Q1. Your cloud server is not reachable via SSH. What will you check?
+Answer:
+Check server status (running or stopped)
+Check Security Group port 22 open
+Check network ACL
+Check correct key pair
+Check firewall rules
+Q2. A website hosted on your server is down. What steps will you take?
+Answer:
+Check server uptime
+Check web service (nginx/apache)
+Check CPU & memory
+Check DNS
+Check logs
+Q3. Disk space of a Linux server is full. What will you do?
+Answer:
+Check disk usage (df -h)
+Find large files (du -sh *)
+Clean logs
+Remove unused files
+Expand disk if required
+Q4. Users are complaining the application is slow in cloud.
+Answer:
+Check CPU usage
+Check memory usage
+Check database performance
+Check network latency
+Enable auto scaling
