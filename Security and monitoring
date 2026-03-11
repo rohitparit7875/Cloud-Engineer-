@@ -1,0 +1,13 @@
+4️⃣ Security & Monitoring
+Q1. What is IAM?
+Answer:
+Identity and Access Management controls who can access what resources in cloud.
+Q2. What is Multi-Factor Authentication (MFA)?
+Answer:
+A security mechanism requiring two or more verification methods to access resources.
+Q3. What is Cloud Monitoring?
+Answer:
+Tracking performance, logs, and metrics of cloud resources using tools like CloudWatch or Stackdriver.
+Q4. What is Encryption in Cloud?
+Answer:
+Protecting data by converting it into unreadable format using encryption keys.
