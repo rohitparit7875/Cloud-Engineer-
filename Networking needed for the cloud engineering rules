@@ -1,0 +1,14 @@
+2️⃣ Networking in Cloud
+Q1. What is VPC?
+Answer:
+A Virtual Private Cloud is a logically isolated network in the cloud where you can launch resources securely.
+Q2. Difference between Public Subnet and Private Subnet?
+Answer:
+Public Subnet: Accessible from the internet.
+Private Subnet: No direct internet access.
+Q3. What is NAT Gateway?
+Answer:
+Allows instances in a private subnet to access the internet without exposing them publicly.
+Q4. What is Security Group?
+Answer:
+A virtual firewall that controls inbound and outbound traffic for cloud resources.
