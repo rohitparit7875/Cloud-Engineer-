@@ -1,0 +1,15 @@
+3️⃣ Storage & Databases
+Q1. Difference between Object Storage and Block Storage?
+Answer:
+Object Storage: Stores files as objects (Example: AWS S3).
+Block Storage: Storage attached to virtual machines like disks (Example: AWS EBS).
+Q2. What is Cloud Backup?
+Answer:
+A copy of data stored in another location to recover data in case of failure.
+Q3. What is CDN?
+Answer:
+Content Delivery Network caches content in multiple locations worldwide to deliver faster to users.
+Q4. Difference between RDS and DynamoDB?
+Answer:
+RDS: Relational database (SQL).
+DynamoDB: NoSQL database.
