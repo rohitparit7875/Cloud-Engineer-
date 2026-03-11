@@ -1,0 +1,12 @@
+1️⃣ Cloud Architecture & Concepts
+Q1. What is the difference between IaaS, PaaS, and SaaS?
+Answer:
+IaaS (Infrastructure as a Service): Provides virtual machines, storage, and networking. Example: AWS EC2.
+PaaS (Platform as a Service): Provides a platform to develop and deploy applications without managing infrastructure. Example: Google App Engine.
+SaaS (Software as a Service): Ready-to-use software delivered over the internet. Example: Gmail, Salesforce.
+Q2. What is High Availability in cloud?
+Answer:
+High availability means designing systems so that they remain operational even if one component fails. It is achieved using load balancers, multiple availability zones, and auto-scaling.
+Q3. What is Auto Scaling?
+Answer:
+Auto Scaling automatically increases or decreases the number of servers depending on traffic and load.
