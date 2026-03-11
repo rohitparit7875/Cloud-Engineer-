@@ -1,0 +1,14 @@
+1️⃣ Role of SysAdmin in DevOps
+A SysAdmin already works with servers, networks, and operating systems. In DevOps, the same things are automated and integrated with development teams.
+Example:
+SysAdmin Work
+DevOps Version
+Manually configure servers
+Use automation tools (Ansible, Terraform)
+Deploy software manually
+Use CI/CD pipelines
+Monitor servers
+Use Prometheus / Grafana
+Manage infrastructure
+Infrastructure as Code
+So DevOps = Automated SysAdmin + Development collaboration.
