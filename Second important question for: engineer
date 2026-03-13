@@ -1,0 +1,10 @@
+2. What is Auto Scaling in cloud computing?
+Answer:
+Auto Scaling automatically adjusts the number of compute resources (VMs/instances) based on traffic or load.
+Example:
+If CPU usage > 70%, new instances are launched.
+If load decreases, extra instances are terminated.
+Benefits:
+Cost optimization
+High availability
+Better performance
