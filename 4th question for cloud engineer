@@ -1,0 +1,8 @@
+4. What is a Load Balancer and why is it used?
+Answer:
+A Load Balancer distributes incoming traffic across multiple servers to ensure no single server becomes overloaded.
+Benefits:
+High availability
+Fault tolerance
+Better performance
+Example: If one server fails, traffic automatically goes to another server.
