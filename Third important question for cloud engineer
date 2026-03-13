@@ -1,0 +1,5 @@
+3. What is the difference between Public Cloud, Private Cloud, and Hybrid Cloud?
+Answer:
+Public Cloud: Infrastructure owned by cloud providers and shared among multiple users. Example: AWS, Azure, GCP.
+Private Cloud: Dedicated cloud environment for a single organization.
+Hybrid Cloud: Combination of public and private cloud working together.
