@@ -1,0 +1,5 @@
+1. What is the difference between IaaS, PaaS, and SaaS?
+Answer:
+IaaS (Infrastructure as a Service): Provides virtualized computing resources like VMs, storage, and networking. Example: AWS EC2, Azure VM.
+PaaS (Platform as a Service): Provides a platform for developers to deploy applications without managing infrastructure. Example: Google App Engine, Heroku.
+SaaS (Software as a Service): Complete software delivered over the internet. Example: Gmail, Salesforce.
