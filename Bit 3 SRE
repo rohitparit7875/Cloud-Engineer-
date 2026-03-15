@@ -1,0 +1,15 @@
+Bit 3 — Containers & Orchestration
+Modern applications run in containers.
+Tools to learn:
+Docker
+Kubernetes
+Concepts:
+Container images
+Dockerfile
+Pods
+Deployments
+Services
+Scaling
+Practice project: Deploy a containerized app on Kubernetes.
+Goal of Bit 3:
+Understand how applications are deployed and scaled.
