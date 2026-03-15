@@ -1,0 +1,18 @@
+Bit 4 — Monitoring, Automation & CI/CD
+This is the actual SRE mindset: automate everything and monitor everything.
+Monitoring tools:
+Prometheus
+Grafana
+CI/CD tools:
+Jenkins
+GitHub Actions
+Automation:
+Bash scripting
+Python scripting
+Practice project: Build a pipeline:
+Pull code from Git
+Build Docker image
+Deploy to Kubernetes
+Monitor with Grafana
+Goal of Bit 4:
+Build a complete DevOps/SRE pipeline.
