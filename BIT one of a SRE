@@ -1,0 +1,27 @@
+Bit 1 — Strong System & Networking Foundation
+This builds the core troubleshooting skills every SRE must have.
+Focus areas:
+Advanced Linux administration
+System performance troubleshooting
+Networking basics
+Log analysis
+Key things to practice:
+CPU spike investigation
+Memory leak troubleshooting
+Network latency debugging
+Disk I/O issues
+Tools/OS to master:
+Linux
+Important commands:
+Copy code
+
+top
+htop
+netstat
+ss
+iostat
+vmstat
+tcpdump
+journalctl
+Goal of Bit 1:
+You should be able to diagnose server problems quickly.
