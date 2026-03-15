@@ -1,0 +1,14 @@
+Bit 2 — Cloud Infrastructure
+Most SRE roles today run on cloud platforms.
+Start with:
+Amazon Web Services
+Key services to learn:
+EC2
+VPC
+IAM
+S3
+Load Balancer
+Auto Scaling
+Practice: Deploy a web application on AWS with a load balancer.
+Goal of Bit 2:
+Understand how production systems run in cloud infrastructure.
