@@ -1,0 +1,21 @@
+3️⃣ Troubleshooting Questions
+1. Server not reachable – what will you check?
+Check network connectivity (ping)
+Verify IP configuration
+Check firewall rules
+Verify server service status
+2. Disk space full – what to do?
+Identify large files
+Delete unnecessary logs
+Archive old data
+Extend disk if needed
+3. High CPU usage – how to check?
+Use top or htop
+Identify heavy processes
+Restart problematic services
+Optimize applications
+4. DNS not working – troubleshooting
+Check DNS server configuration
+Use nslookup or dig
+Verify network connectivity
+Restart DNS service
