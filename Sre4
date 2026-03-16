@@ -1,0 +1,7 @@
+4️⃣ Monitoring + DevOps Tools
+SRE ensures systems are reliable and observable.
+Learn tools like:
+Prometheus + Grafana (monitoring)
+ELK Stack (logging)
+Jenkins / GitHub Actions (CI/CD)
+Terraform / Ansible (Infrastructure as Code)
