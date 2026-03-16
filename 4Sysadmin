@@ -1,0 +1,21 @@
+4️⃣ Security & Monitoring Questions
+1. What is sudo?
+Allows limited root access
+Used for administrative commands
+Improves security
+Controlled via sudoers file
+2. What are server backups?
+Copies of system data
+Protect against data loss
+Used for recovery
+Scheduled regularly
+3. What is system monitoring?
+Tracks server performance
+Monitors CPU, RAM, disk
+Detects issues early
+Tools: Nagios, Zabbix
+4. How to secure a Linux server?
+Disable root login
+Use strong passwords
+Enable firewall
+Keep system updated
