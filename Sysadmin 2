@@ -1,0 +1,21 @@
+2️⃣ Linux Administration Questions
+1. What is SSH?
+Secure Shell protocol
+Used for remote server access
+Encrypted communication
+Default port is 22
+2. What is Crontab?
+Scheduler in Linux
+Automates tasks
+Runs scripts at specific times
+Example: backups, updates
+3. What does chmod do?
+Changes file permissions
+Controls read/write/execute
+Used for security management
+Example: chmod 755 file
+4. How to check disk usage?
+df -h → shows disk space
+du -sh → folder size
+Helps monitor storage
+Used in troubleshooting
