@@ -1,0 +1,21 @@
+1️⃣ Basic SysAdmin Questions
+1. What is the role of a System Administrator?
+Manage and maintain servers
+Install and configure operating systems
+Monitor system performance
+Ensure system security and backups
+2. What is DNS?
+DNS = Domain Name System
+Converts domain names to IP addresses
+Works like the internet’s phonebook
+Example: google.com → IP address
+3. What is DHCP?
+Dynamic Host Configuration Protocol
+Automatically assigns IP addresses
+Reduces manual configuration
+Used in large networks
+4. What is a Firewall?
+Security system for networks
+Controls incoming/outgoing traffic
+Blocks unauthorized access
+Protects servers from attacks
