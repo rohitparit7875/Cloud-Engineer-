@@ -1,0 +1,10 @@
+🔹 3. Database Commands (HANA / DB)
+image_group{"aspect_ratio":"1:1","query":["sap hana studio sql console example","hdbsql command example linux","oracle sqlplus terminal example","database performance monitoring dashboard"],"num_per_query":1}
+✅ SAP HANA
+Bash
+HDB info
+hdbsql -i <instance> -u SYSTEM -p <password>
+✅ DB Monitoring
+SQL
+SELECT * FROM M_SERVICES;
+SELECT * FROM M_DATABASE;
