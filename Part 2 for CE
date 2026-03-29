@@ -1,0 +1,17 @@
+🔹 2. SAP Basis Important Commands
+image_group{"aspect_ratio":"1:1","query":["sap basis command line sapcontrol example","sap system start stop command sapcontrol output","sap mmc console screenshot","sapstartsrv process linux"],"num_per_query":1}
+✅ Start / Stop SAP
+Bash
+sapcontrol -nr <instance_no> -function Start
+sapcontrol -nr <instance_no> -function Stop
+✅ Check SAP Status
+Bash
+sapcontrol -nr <instance_no> -function GetProcessList
+✅ SAP Environment
+Bash
+su - <sid>adm
+env | grep SAP
+✅ Logs
+Bash
+cd /usr/sap/<SID>/DVEBMGS<instance>/work
+tail -f dev_w0
