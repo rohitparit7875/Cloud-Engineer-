@@ -1,0 +1,25 @@
+🔹 1. Linux Commands (VERY IMPORTANT for SAP Basis & Cloud)
+image_group{"aspect_ratio":"1:1","query":["linux terminal commands cheat sheet","linux top command output example","df -h disk usage linux","ps aux command example"],"num_per_query":1}
+These are used daily in SAP systems (Linux servers):
+✅ System Monitoring
+Bash
+top            # Real-time CPU/memory usage
+htop           # Better version of top
+uptime         # System load
+free -m        # Memory usage
+✅ Disk & Storage
+Bash
+df -h          # Disk space
+du -sh *       # Folder size
+lsblk          # Disk info
+✅ Process Management
+Bash
+ps -ef | grep <process>
+kill -9 <PID>
+nice / renice
+✅ File Handling
+Bash
+ls -lrt
+cp / mv / rm
+cat / less / tail -f logfile.log
+find / -name filename
