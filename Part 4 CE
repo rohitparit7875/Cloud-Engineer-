@@ -1,0 +1,14 @@
+🔹 4. Network Commands (Cloud + Infra)
+image_group{"aspect_ratio":"1:1","query":["ping command output example","netstat -tulnp example linux","traceroute command example","nslookup dns query example"],"num_per_query":1}
+✅ Connectivity
+Bash
+ping google.com
+traceroute google.com
+✅ Ports & Services
+Bash
+netstat -tulnp
+ss -tulnp
+✅ DNS
+Bash
+nslookup google.com
+dig google.com
